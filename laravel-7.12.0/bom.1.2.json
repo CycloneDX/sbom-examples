@@ -4,10 +4,10 @@
     "version": 1,
     "components": [
         {
-            "name": "stack-cors",
-            "group": "asm89",
             "type": "library",
+            "name": "stack-cors",
             "version": "1.3.0",
+            "group": "asm89",
             "description": "Cross-origin resource sharing library and stack middleware",
             "licenses": [
                 {
@@ -19,10 +19,10 @@
             "purl": "pkg:composer\/asm89\/stack-cors@1.3.0"
         },
         {
-            "name": "math",
-            "group": "brick",
             "type": "library",
+            "name": "math",
             "version": "0.9.2",
+            "group": "brick",
             "description": "Arbitrary-precision arithmetic library",
             "licenses": [
                 {
@@ -34,10 +34,10 @@
             "purl": "pkg:composer\/brick\/math@0.9.2"
         },
         {
-            "name": "inflector",
-            "group": "doctrine",
             "type": "library",
+            "name": "inflector",
             "version": "2.0.3",
+            "group": "doctrine",
             "description": "PHP Doctrine Inflector is a small library that can perform string manipulations with regard to upper\/lowercase and singular\/plural forms of words.",
             "licenses": [
                 {
@@ -49,10 +49,10 @@
             "purl": "pkg:composer\/doctrine\/inflector@2.0.3"
         },
         {
-            "name": "lexer",
-            "group": "doctrine",
             "type": "library",
+            "name": "lexer",
             "version": "1.2.1",
+            "group": "doctrine",
             "description": "PHP Doctrine Lexer parser library that can be used in Top-Down, Recursive Descent Parsers.",
             "licenses": [
                 {
@@ -64,10 +64,10 @@
             "purl": "pkg:composer\/doctrine\/lexer@1.2.1"
         },
         {
-            "name": "cron-expression",
-            "group": "dragonmantank",
             "type": "library",
+            "name": "cron-expression",
             "version": "2.3.1",
+            "group": "dragonmantank",
             "description": "CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due",
             "licenses": [
                 {
@@ -79,10 +79,10 @@
             "purl": "pkg:composer\/dragonmantank\/cron-expression@2.3.1"
         },
         {
-            "name": "email-validator",
-            "group": "egulias",
             "type": "library",
+            "name": "email-validator",
             "version": "2.1.25",
+            "group": "egulias",
             "description": "A library for validating emails against several RFCs",
             "licenses": [
                 {
@@ -94,10 +94,10 @@
             "purl": "pkg:composer\/egulias\/email-validator@2.1.25"
         },
         {
-            "name": "proxy",
-            "group": "fideloper",
             "type": "library",
+            "name": "proxy",
             "version": "4.4.1",
+            "group": "fideloper",
             "description": "Set trusted proxies for Laravel",
             "licenses": [
                 {
@@ -109,10 +109,10 @@
             "purl": "pkg:composer\/fideloper\/proxy@4.4.1"
         },
         {
-            "name": "laravel-cors",
-            "group": "fruitcake",
             "type": "library",
+            "name": "laravel-cors",
             "version": "1.0.6",
+            "group": "fruitcake",
             "description": "Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application",
             "licenses": [
                 {
@@ -124,10 +124,10 @@
             "purl": "pkg:composer\/fruitcake\/laravel-cors@1.0.6"
         },
         {
-            "name": "guzzle",
-            "group": "guzzlehttp",
             "type": "library",
+            "name": "guzzle",
             "version": "6.5.5",
+            "group": "guzzlehttp",
             "description": "Guzzle is a PHP HTTP client library",
             "licenses": [
                 {
@@ -139,10 +139,10 @@
             "purl": "pkg:composer\/guzzlehttp\/guzzle@6.5.5"
         },
         {
-            "name": "promises",
-            "group": "guzzlehttp",
             "type": "library",
+            "name": "promises",
             "version": "1.4.1",
+            "group": "guzzlehttp",
             "description": "Guzzle promises library",
             "licenses": [
                 {
@@ -154,10 +154,10 @@
             "purl": "pkg:composer\/guzzlehttp\/promises@1.4.1"
         },
         {
-            "name": "psr7",
-            "group": "guzzlehttp",
             "type": "library",
-            "version": "1.8.1",
+            "name": "psr7",
+            "version": "1.8.2",
+            "group": "guzzlehttp",
             "description": "PSR-7 message implementation that also provides common utility methods",
             "licenses": [
                 {
@@ -166,13 +166,13 @@
                     }
                 }
             ],
-            "purl": "pkg:composer\/guzzlehttp\/psr7@1.8.1"
+            "purl": "pkg:composer\/guzzlehttp\/psr7@1.8.2"
         },
         {
-            "name": "framework",
-            "group": "laravel",
             "type": "library",
+            "name": "framework",
             "version": "7.30.4",
+            "group": "laravel",
             "description": "The Laravel Framework.",
             "licenses": [
                 {
@@ -184,10 +184,10 @@
             "purl": "pkg:composer\/laravel\/framework@7.30.4"
         },
         {
-            "name": "laravel",
-            "group": "laravel",
             "type": "library",
+            "name": "laravel",
             "version": "7.12.0",
+            "group": "laravel",
             "description": "The Laravel Framework.",
             "licenses": [
                 {
@@ -199,10 +199,10 @@
             "purl": "pkg:composer\/laravel\/laravel@7.12.0"
         },
         {
-            "name": "tinker",
-            "group": "laravel",
             "type": "library",
+            "name": "tinker",
             "version": "2.6.1",
+            "group": "laravel",
             "description": "Powerful REPL for the Laravel framework.",
             "licenses": [
                 {
@@ -214,10 +214,10 @@
             "purl": "pkg:composer\/laravel\/tinker@2.6.1"
         },
         {
-            "name": "commonmark",
-            "group": "league",
             "type": "library",
-            "version": "1.5.8",
+            "name": "commonmark",
+            "version": "1.6.0",
+            "group": "league",
             "description": "Highly-extensible PHP Markdown parser which fully supports the CommonMark spec and Github-Flavored Markdown (GFM)",
             "licenses": [
                 {
@@ -226,13 +226,13 @@
                     }
                 }
             ],
-            "purl": "pkg:composer\/league\/commonmark@1.5.8"
+            "purl": "pkg:composer\/league\/commonmark@1.6.0"
         },
         {
-            "name": "flysystem",
-            "group": "league",
             "type": "library",
+            "name": "flysystem",
             "version": "1.1.3",
+            "group": "league",
             "description": "Filesystem abstraction: Many filesystems, one API.",
             "licenses": [
                 {
@@ -244,10 +244,10 @@
             "purl": "pkg:composer\/league\/flysystem@1.1.3"
         },
         {
-            "name": "mime-type-detection",
-            "group": "league",
             "type": "library",
+            "name": "mime-type-detection",
             "version": "1.7.0",
+            "group": "league",
             "description": "Mime-type detection for Flysystem",
             "licenses": [
                 {
@@ -259,10 +259,10 @@
             "purl": "pkg:composer\/league\/mime-type-detection@1.7.0"
         },
         {
-            "name": "monolog",
-            "group": "monolog",
             "type": "library",
+            "name": "monolog",
             "version": "2.2.0",
+            "group": "monolog",
             "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
             "licenses": [
                 {
@@ -274,10 +274,10 @@
             "purl": "pkg:composer\/monolog\/monolog@2.2.0"
         },
         {
-            "name": "carbon",
-            "group": "nesbot",
             "type": "library",
-            "version": "2.46.0",
+            "name": "carbon",
+            "version": "2.47.0",
+            "group": "nesbot",
             "description": "An API extension for DateTime that supports 281 different languages.",
             "licenses": [
                 {
@@ -286,13 +286,13 @@
                     }
                 }
             ],
-            "purl": "pkg:composer\/nesbot\/carbon@2.46.0"
+            "purl": "pkg:composer\/nesbot\/carbon@2.47.0"
         },
         {
-            "name": "php-parser",
-            "group": "nikic",
             "type": "library",
+            "name": "php-parser",
             "version": "4.10.4",
+            "group": "nikic",
             "description": "A PHP parser written in PHP",
             "licenses": [
                 {
@@ -304,10 +304,10 @@
             "purl": "pkg:composer\/nikic\/php-parser@4.10.4"
         },
         {
-            "name": "closure",
-            "group": "opis",
             "type": "library",
+            "name": "closure",
             "version": "3.6.2",
+            "group": "opis",
             "description": "A library that can be used to serialize closures (anonymous functions) and arbitrary objects.",
             "licenses": [
                 {
@@ -319,10 +319,10 @@
             "purl": "pkg:composer\/opis\/closure@3.6.2"
         },
         {
-            "name": "phpoption",
-            "group": "phpoption",
             "type": "library",
+            "name": "phpoption",
             "version": "1.7.5",
+            "group": "phpoption",
             "description": "Option Type for PHP",
             "licenses": [
                 {
@@ -334,10 +334,10 @@
             "purl": "pkg:composer\/phpoption\/phpoption@1.7.5"
         },
         {
-            "name": "container",
-            "group": "psr",
             "type": "library",
+            "name": "container",
             "version": "1.1.1",
+            "group": "psr",
             "description": "Common Container Interface (PHP FIG PSR-11)",
             "licenses": [
                 {
@@ -349,10 +349,10 @@
             "purl": "pkg:composer\/psr\/container@1.1.1"
         },
         {
-            "name": "event-dispatcher",
-            "group": "psr",
             "type": "library",
+            "name": "event-dispatcher",
             "version": "1.0.0",
+            "group": "psr",
             "description": "Standard interfaces for event handling.",
             "licenses": [
                 {
@@ -364,10 +364,10 @@
             "purl": "pkg:composer\/psr\/event-dispatcher@1.0.0"
         },
         {
-            "name": "http-message",
-            "group": "psr",
             "type": "library",
+            "name": "http-message",
             "version": "1.0.1",
+            "group": "psr",
             "description": "Common interface for HTTP messages",
             "licenses": [
                 {
@@ -379,10 +379,10 @@
             "purl": "pkg:composer\/psr\/http-message@1.0.1"
         },
         {
-            "name": "log",
-            "group": "psr",
             "type": "library",
-            "version": "1.1.3",
+            "name": "log",
+            "version": "1.1.4",
+            "group": "psr",
             "description": "Common interface for logging libraries",
             "licenses": [
                 {
@@ -391,13 +391,13 @@
                     }
                 }
             ],
-            "purl": "pkg:composer\/psr\/log@1.1.3"
+            "purl": "pkg:composer\/psr\/log@1.1.4"
         },
         {
-            "name": "simple-cache",
-            "group": "psr",
             "type": "library",
+            "name": "simple-cache",
             "version": "1.0.1",
+            "group": "psr",
             "description": "Common interfaces for simple caching",
             "licenses": [
                 {
@@ -409,10 +409,10 @@
             "purl": "pkg:composer\/psr\/simple-cache@1.0.1"
         },
         {
-            "name": "psysh",
-            "group": "psy",
             "type": "library",
+            "name": "psysh",
             "version": "0.10.8",
+            "group": "psy",
             "description": "An interactive shell for modern PHP.",
             "licenses": [
                 {
@@ -424,10 +424,10 @@
             "purl": "pkg:composer\/psy\/psysh@0.10.8"
         },
         {
-            "name": "getallheaders",
-            "group": "ralouphie",
             "type": "library",
+            "name": "getallheaders",
             "version": "3.0.3",
+            "group": "ralouphie",
             "description": "A polyfill for getallheaders.",
             "licenses": [
                 {
@@ -439,10 +439,10 @@
             "purl": "pkg:composer\/ralouphie\/getallheaders@3.0.3"
         },
         {
-            "name": "collection",
-            "group": "ramsey",
             "type": "library",
+            "name": "collection",
             "version": "1.1.3",
+            "group": "ramsey",
             "description": "A PHP 7.2+ library for representing and manipulating collections.",
             "licenses": [
                 {
@@ -454,10 +454,10 @@
             "purl": "pkg:composer\/ramsey\/collection@1.1.3"
         },
         {
-            "name": "uuid",
-            "group": "ramsey",
             "type": "library",
+            "name": "uuid",
             "version": "4.1.1",
+            "group": "ramsey",
             "description": "A PHP library for generating and working with universally unique identifiers (UUIDs).",
             "licenses": [
                 {
@@ -469,10 +469,10 @@
             "purl": "pkg:composer\/ramsey\/uuid@4.1.1"
         },
         {
-            "name": "swiftmailer",
-            "group": "swiftmailer",
             "type": "library",
+            "name": "swiftmailer",
             "version": "6.2.7",
+            "group": "swiftmailer",
             "description": "Swiftmailer, free feature-rich PHP mailer",
             "licenses": [
                 {
@@ -484,10 +484,10 @@
             "purl": "pkg:composer\/swiftmailer\/swiftmailer@6.2.7"
         },
         {
-            "name": "console",
-            "group": "symfony",
             "type": "library",
-            "version": "5.2.6",
+            "name": "console",
+            "version": "5.2.7",
+            "group": "symfony",
             "description": "Eases the creation of beautiful and testable command line interfaces",
             "licenses": [
                 {
@@ -496,13 +496,13 @@
                     }
                 }
             ],
-            "purl": "pkg:composer\/symfony\/console@5.2.6"
+            "purl": "pkg:composer\/symfony\/console@5.2.7"
         },
         {
-            "name": "css-selector",
-            "group": "symfony",
             "type": "library",
-            "version": "5.2.4",
+            "name": "css-selector",
+            "version": "5.2.7",
+            "group": "symfony",
             "description": "Converts CSS selectors to XPath expressions",
             "licenses": [
                 {
@@ -511,13 +511,13 @@
                     }
                 }
             ],
-            "purl": "pkg:composer\/symfony\/css-selector@5.2.4"
+            "purl": "pkg:composer\/symfony\/css-selector@5.2.7"
         },
         {
-            "name": "deprecation-contracts",
-            "group": "symfony",
             "type": "library",
+            "name": "deprecation-contracts",
             "version": "2.4.0",
+            "group": "symfony",
             "description": "A generic function and convention to trigger deprecation notices",
             "licenses": [
                 {
@@ -529,10 +529,10 @@
             "purl": "pkg:composer\/symfony\/deprecation-contracts@2.4.0"
         },
         {
-            "name": "error-handler",
-            "group": "symfony",
             "type": "library",
-            "version": "5.2.6",
+            "name": "error-handler",
+            "version": "5.2.7",
+            "group": "symfony",
             "description": "Provides tools to manage errors and ease debugging PHP code",
             "licenses": [
                 {
@@ -541,13 +541,13 @@
                     }
                 }
             ],
-            "purl": "pkg:composer\/symfony\/error-handler@5.2.6"
+            "purl": "pkg:composer\/symfony\/error-handler@5.2.7"
         },
         {
-            "name": "event-dispatcher",
-            "group": "symfony",
             "type": "library",
+            "name": "event-dispatcher",
             "version": "5.2.4",
+            "group": "symfony",
             "description": "Provides tools that allow your application components to communicate with each other by dispatching events and listening to them",
             "licenses": [
                 {
@@ -559,10 +559,10 @@
             "purl": "pkg:composer\/symfony\/event-dispatcher@5.2.4"
         },
         {
-            "name": "event-dispatcher-contracts",
-            "group": "symfony",
             "type": "library",
+            "name": "event-dispatcher-contracts",
             "version": "2.4.0",
+            "group": "symfony",
             "description": "Generic abstractions related to dispatching event",
             "licenses": [
                 {
@@ -574,10 +574,10 @@
             "purl": "pkg:composer\/symfony\/event-dispatcher-contracts@2.4.0"
         },
         {
-            "name": "finder",
-            "group": "symfony",
             "type": "library",
+            "name": "finder",
             "version": "5.2.4",
+            "group": "symfony",
             "description": "Finds files and directories via an intuitive fluent interface",
             "licenses": [
                 {
@@ -589,10 +589,10 @@
             "purl": "pkg:composer\/symfony\/finder@5.2.4"
         },
         {
-            "name": "http-client-contracts",
-            "group": "symfony",
             "type": "library",
+            "name": "http-client-contracts",
             "version": "2.4.0",
+            "group": "symfony",
             "description": "Generic abstractions related to HTTP clients",
             "licenses": [
                 {
@@ -604,10 +604,10 @@
             "purl": "pkg:composer\/symfony\/http-client-contracts@2.4.0"
         },
         {
-            "name": "http-foundation",
-            "group": "symfony",
             "type": "library",
-            "version": "5.2.4",
+            "name": "http-foundation",
+            "version": "5.2.7",
+            "group": "symfony",
             "description": "Defines an object-oriented layer for the HTTP specification",
             "licenses": [
                 {
@@ -616,13 +616,13 @@
                     }
                 }
             ],
-            "purl": "pkg:composer\/symfony\/http-foundation@5.2.4"
+            "purl": "pkg:composer\/symfony\/http-foundation@5.2.7"
         },
         {
-            "name": "http-kernel",
-            "group": "symfony",
             "type": "library",
-            "version": "5.2.6",
+            "name": "http-kernel",
+            "version": "5.2.7",
+            "group": "symfony",
             "description": "Provides a structured process for converting a Request into a Response",
             "licenses": [
                 {
@@ -631,13 +631,13 @@
                     }
                 }
             ],
-            "purl": "pkg:composer\/symfony\/http-kernel@5.2.6"
+            "purl": "pkg:composer\/symfony\/http-kernel@5.2.7"
         },
         {
-            "name": "mime",
-            "group": "symfony",
             "type": "library",
-            "version": "5.2.6",
+            "name": "mime",
+            "version": "5.2.7",
+            "group": "symfony",
             "description": "Allows manipulating MIME messages",
             "licenses": [
                 {
@@ -646,13 +646,13 @@
                     }
                 }
             ],
-            "purl": "pkg:composer\/symfony\/mime@5.2.6"
+            "purl": "pkg:composer\/symfony\/mime@5.2.7"
         },
         {
-            "name": "polyfill-ctype",
-            "group": "symfony",
             "type": "library",
+            "name": "polyfill-ctype",
             "version": "1.22.1",
+            "group": "symfony",
             "description": "Symfony polyfill for ctype functions",
             "licenses": [
                 {
@@ -664,10 +664,10 @@
             "purl": "pkg:composer\/symfony\/polyfill-ctype@1.22.1"
         },
         {
-            "name": "polyfill-iconv",
-            "group": "symfony",
             "type": "library",
+            "name": "polyfill-iconv",
             "version": "1.22.1",
+            "group": "symfony",
             "description": "Symfony polyfill for the Iconv extension",
             "licenses": [
                 {
@@ -679,10 +679,10 @@
             "purl": "pkg:composer\/symfony\/polyfill-iconv@1.22.1"
         },
         {
-            "name": "polyfill-intl-grapheme",
-            "group": "symfony",
             "type": "library",
+            "name": "polyfill-intl-grapheme",
             "version": "1.22.1",
+            "group": "symfony",
             "description": "Symfony polyfill for intl's grapheme_* functions",
             "licenses": [
                 {
@@ -694,10 +694,10 @@
             "purl": "pkg:composer\/symfony\/polyfill-intl-grapheme@1.22.1"
         },
         {
-            "name": "polyfill-intl-idn",
-            "group": "symfony",
             "type": "library",
+            "name": "polyfill-intl-idn",
             "version": "1.22.1",
+            "group": "symfony",
             "description": "Symfony polyfill for intl's idn_to_ascii and idn_to_utf8 functions",
             "licenses": [
                 {
@@ -709,10 +709,10 @@
             "purl": "pkg:composer\/symfony\/polyfill-intl-idn@1.22.1"
         },
         {
-            "name": "polyfill-intl-normalizer",
-            "group": "symfony",
             "type": "library",
+            "name": "polyfill-intl-normalizer",
             "version": "1.22.1",
+            "group": "symfony",
             "description": "Symfony polyfill for intl's Normalizer class and related functions",
             "licenses": [
                 {
@@ -724,10 +724,10 @@
             "purl": "pkg:composer\/symfony\/polyfill-intl-normalizer@1.22.1"
         },
         {
-            "name": "polyfill-mbstring",
-            "group": "symfony",
             "type": "library",
+            "name": "polyfill-mbstring",
             "version": "1.22.1",
+            "group": "symfony",
             "description": "Symfony polyfill for the Mbstring extension",
             "licenses": [
                 {
@@ -739,10 +739,10 @@
             "purl": "pkg:composer\/symfony\/polyfill-mbstring@1.22.1"
         },
         {
-            "name": "polyfill-php72",
-            "group": "symfony",
             "type": "library",
+            "name": "polyfill-php72",
             "version": "1.22.1",
+            "group": "symfony",
             "description": "Symfony polyfill backporting some PHP 7.2+ features to lower PHP versions",
             "licenses": [
                 {
@@ -754,10 +754,10 @@
             "purl": "pkg:composer\/symfony\/polyfill-php72@1.22.1"
         },
         {
-            "name": "polyfill-php73",
-            "group": "symfony",
             "type": "library",
+            "name": "polyfill-php73",
             "version": "1.22.1",
+            "group": "symfony",
             "description": "Symfony polyfill backporting some PHP 7.3+ features to lower PHP versions",
             "licenses": [
                 {
@@ -769,10 +769,10 @@
             "purl": "pkg:composer\/symfony\/polyfill-php73@1.22.1"
         },
         {
-            "name": "polyfill-php80",
-            "group": "symfony",
             "type": "library",
+            "name": "polyfill-php80",
             "version": "1.22.1",
+            "group": "symfony",
             "description": "Symfony polyfill backporting some PHP 8.0+ features to lower PHP versions",
             "licenses": [
                 {
@@ -784,10 +784,10 @@
             "purl": "pkg:composer\/symfony\/polyfill-php80@1.22.1"
         },
         {
-            "name": "process",
-            "group": "symfony",
             "type": "library",
-            "version": "5.2.4",
+            "name": "process",
+            "version": "5.2.7",
+            "group": "symfony",
             "description": "Executes commands in sub-processes",
             "licenses": [
                 {
@@ -796,13 +796,13 @@
                     }
                 }
             ],
-            "purl": "pkg:composer\/symfony\/process@5.2.4"
+            "purl": "pkg:composer\/symfony\/process@5.2.7"
         },
         {
-            "name": "routing",
-            "group": "symfony",
             "type": "library",
-            "version": "5.2.6",
+            "name": "routing",
+            "version": "5.2.7",
+            "group": "symfony",
             "description": "Maps an HTTP request to a set of configuration variables",
             "licenses": [
                 {
@@ -811,13 +811,13 @@
                     }
                 }
             ],
-            "purl": "pkg:composer\/symfony\/routing@5.2.6"
+            "purl": "pkg:composer\/symfony\/routing@5.2.7"
         },
         {
-            "name": "service-contracts",
-            "group": "symfony",
             "type": "library",
+            "name": "service-contracts",
             "version": "2.4.0",
+            "group": "symfony",
             "description": "Generic abstractions related to writing services",
             "licenses": [
                 {
@@ -829,10 +829,10 @@
             "purl": "pkg:composer\/symfony\/service-contracts@2.4.0"
         },
         {
-            "name": "string",
-            "group": "symfony",
             "type": "library",
+            "name": "string",
             "version": "5.2.6",
+            "group": "symfony",
             "description": "Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way",
             "licenses": [
                 {
@@ -844,10 +844,10 @@
             "purl": "pkg:composer\/symfony\/string@5.2.6"
         },
         {
-            "name": "translation",
-            "group": "symfony",
             "type": "library",
-            "version": "5.2.6",
+            "name": "translation",
+            "version": "5.2.7",
+            "group": "symfony",
             "description": "Provides tools to internationalize your application",
             "licenses": [
                 {
@@ -856,13 +856,13 @@
                     }
                 }
             ],
-            "purl": "pkg:composer\/symfony\/translation@5.2.6"
+            "purl": "pkg:composer\/symfony\/translation@5.2.7"
         },
         {
-            "name": "translation-contracts",
-            "group": "symfony",
             "type": "library",
+            "name": "translation-contracts",
             "version": "2.4.0",
+            "group": "symfony",
             "description": "Generic abstractions related to translation",
             "licenses": [
                 {
@@ -874,10 +874,10 @@
             "purl": "pkg:composer\/symfony\/translation-contracts@2.4.0"
         },
         {
-            "name": "var-dumper",
-            "group": "symfony",
             "type": "library",
-            "version": "5.2.6",
+            "name": "var-dumper",
+            "version": "5.2.7",
+            "group": "symfony",
             "description": "Provides mechanisms for walking through any arbitrary PHP variable",
             "licenses": [
                 {
@@ -886,13 +886,13 @@
                     }
                 }
             ],
-            "purl": "pkg:composer\/symfony\/var-dumper@5.2.6"
+            "purl": "pkg:composer\/symfony\/var-dumper@5.2.7"
         },
         {
-            "name": "css-to-inline-styles",
-            "group": "tijsverkoyen",
             "type": "library",
+            "name": "css-to-inline-styles",
             "version": "2.2.3",
+            "group": "tijsverkoyen",
             "description": "CssToInlineStyles is a class that enables you to convert HTML-pages\/files into HTML-pages\/files with inline styles. This is very useful when you're sending emails.",
             "licenses": [
                 {
@@ -904,10 +904,10 @@
             "purl": "pkg:composer\/tijsverkoyen\/css-to-inline-styles@2.2.3"
         },
         {
-            "name": "phpdotenv",
-            "group": "vlucas",
             "type": "library",
+            "name": "phpdotenv",
             "version": "4.2.0",
+            "group": "vlucas",
             "description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.",
             "licenses": [
                 {
@@ -919,10 +919,10 @@
             "purl": "pkg:composer\/vlucas\/phpdotenv@4.2.0"
         },
         {
-            "name": "portable-ascii",
-            "group": "voku",
             "type": "library",
+            "name": "portable-ascii",
             "version": "1.5.6",
+            "group": "voku",
             "description": "Portable ASCII library - performance optimized (ascii) string functions for php.",
             "licenses": [
                 {

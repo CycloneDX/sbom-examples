@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bom xmlns="http://cyclonedx.org/schema/bom/1.3" version="1">
+  <components>
+    <component type="library">
+      <group><![CDATA[asm89]]></group>
+      <name><![CDATA[stack-cors]]></name>
+      <version><![CDATA[1.3.0]]></version>
+      <description><![CDATA[Cross-origin resource sharing library and stack middleware]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/asm89/stack-cors@1.3.0]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[brick]]></group>
+      <name><![CDATA[math]]></name>
+      <version><![CDATA[0.9.2]]></version>
+      <description><![CDATA[Arbitrary-precision arithmetic library]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/brick/math@0.9.2]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[doctrine]]></group>
+      <name><![CDATA[inflector]]></name>
+      <version><![CDATA[2.0.3]]></version>
+      <description><![CDATA[PHP Doctrine Inflector is a small library that can perform string manipulations with regard to upper/lowercase and singular/plural forms of words.]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/doctrine/inflector@2.0.3]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[doctrine]]></group>
+      <name><![CDATA[lexer]]></name>
+      <version><![CDATA[1.2.1]]></version>
+      <description><![CDATA[PHP Doctrine Lexer parser library that can be used in Top-Down, Recursive Descent Parsers.]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/doctrine/lexer@1.2.1]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[dragonmantank]]></group>
+      <name><![CDATA[cron-expression]]></name>
+      <version><![CDATA[2.3.1]]></version>
+      <description><![CDATA[CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/dragonmantank/cron-expression@2.3.1]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[egulias]]></group>
+      <name><![CDATA[email-validator]]></name>
+      <version><![CDATA[2.1.25]]></version>
+      <description><![CDATA[A library for validating emails against several RFCs]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/egulias/email-validator@2.1.25]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[fideloper]]></group>
+      <name><![CDATA[proxy]]></name>
+      <version><![CDATA[4.4.1]]></version>
+      <description><![CDATA[Set trusted proxies for Laravel]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/fideloper/proxy@4.4.1]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[fruitcake]]></group>
+      <name><![CDATA[laravel-cors]]></name>
+      <version><![CDATA[1.0.6]]></version>
+      <description><![CDATA[Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/fruitcake/laravel-cors@1.0.6]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[guzzlehttp]]></group>
+      <name><![CDATA[guzzle]]></name>
+      <version><![CDATA[6.5.5]]></version>
+      <description><![CDATA[Guzzle is a PHP HTTP client library]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/guzzlehttp/guzzle@6.5.5]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[guzzlehttp]]></group>
+      <name><![CDATA[promises]]></name>
+      <version><![CDATA[1.4.1]]></version>
+      <description><![CDATA[Guzzle promises library]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/guzzlehttp/promises@1.4.1]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[guzzlehttp]]></group>
+      <name><![CDATA[psr7]]></name>
+      <version><![CDATA[1.8.2]]></version>
+      <description><![CDATA[PSR-7 message implementation that also provides common utility methods]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/guzzlehttp/psr7@1.8.2]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[laravel]]></group>
+      <name><![CDATA[framework]]></name>
+      <version><![CDATA[7.30.4]]></version>
+      <description><![CDATA[The Laravel Framework.]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/laravel/framework@7.30.4]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[laravel]]></group>
+      <name><![CDATA[laravel]]></name>
+      <version><![CDATA[7.12.0]]></version>
+      <description><![CDATA[The Laravel Framework.]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/laravel/laravel@7.12.0]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[laravel]]></group>
+      <name><![CDATA[tinker]]></name>
+      <version><![CDATA[2.6.1]]></version>
+      <description><![CDATA[Powerful REPL for the Laravel framework.]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/laravel/tinker@2.6.1]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[league]]></group>
+      <name><![CDATA[commonmark]]></name>
+      <version><![CDATA[1.6.0]]></version>
+      <description><![CDATA[Highly-extensible PHP Markdown parser which fully supports the CommonMark spec and Github-Flavored Markdown (GFM)]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[BSD-3-Clause]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/league/commonmark@1.6.0]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[league]]></group>
+      <name><![CDATA[flysystem]]></name>
+      <version><![CDATA[1.1.3]]></version>
+      <description><![CDATA[Filesystem abstraction: Many filesystems, one API.]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/league/flysystem@1.1.3]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[league]]></group>
+      <name><![CDATA[mime-type-detection]]></name>
+      <version><![CDATA[1.7.0]]></version>
+      <description><![CDATA[Mime-type detection for Flysystem]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/league/mime-type-detection@1.7.0]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[monolog]]></group>
+      <name><![CDATA[monolog]]></name>
+      <version><![CDATA[2.2.0]]></version>
+      <description><![CDATA[Sends your logs to files, sockets, inboxes, databases and various web services]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/monolog/monolog@2.2.0]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[nesbot]]></group>
+      <name><![CDATA[carbon]]></name>
+      <version><![CDATA[2.47.0]]></version>
+      <description><![CDATA[An API extension for DateTime that supports 281 different languages.]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/nesbot/carbon@2.47.0]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[nikic]]></group>
+      <name><![CDATA[php-parser]]></name>
+      <version><![CDATA[4.10.4]]></version>
+      <description><![CDATA[A PHP parser written in PHP]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[BSD-3-Clause]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/nikic/php-parser@4.10.4]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[opis]]></group>
+      <name><![CDATA[closure]]></name>
+      <version><![CDATA[3.6.2]]></version>
+      <description><![CDATA[A library that can be used to serialize closures (anonymous functions) and arbitrary objects.]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/opis/closure@3.6.2]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[phpoption]]></group>
+      <name><![CDATA[phpoption]]></name>
+      <version><![CDATA[1.7.5]]></version>
+      <description><![CDATA[Option Type for PHP]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[Apache-2.0]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/phpoption/phpoption@1.7.5]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[psr]]></group>
+      <name><![CDATA[container]]></name>
+      <version><![CDATA[1.1.1]]></version>
+      <description><![CDATA[Common Container Interface (PHP FIG PSR-11)]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/psr/container@1.1.1]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[psr]]></group>
+      <name><![CDATA[event-dispatcher]]></name>
+      <version><![CDATA[1.0.0]]></version>
+      <description><![CDATA[Standard interfaces for event handling.]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/psr/event-dispatcher@1.0.0]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[psr]]></group>
+      <name><![CDATA[http-message]]></name>
+      <version><![CDATA[1.0.1]]></version>
+      <description><![CDATA[Common interface for HTTP messages]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/psr/http-message@1.0.1]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[psr]]></group>
+      <name><![CDATA[log]]></name>
+      <version><![CDATA[1.1.4]]></version>
+      <description><![CDATA[Common interface for logging libraries]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/psr/log@1.1.4]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[psr]]></group>
+      <name><![CDATA[simple-cache]]></name>
+      <version><![CDATA[1.0.1]]></version>
+      <description><![CDATA[Common interfaces for simple caching]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/psr/simple-cache@1.0.1]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[psy]]></group>
+      <name><![CDATA[psysh]]></name>
+      <version><![CDATA[0.10.8]]></version>
+      <description><![CDATA[An interactive shell for modern PHP.]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/psy/psysh@0.10.8]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[ralouphie]]></group>
+      <name><![CDATA[getallheaders]]></name>
+      <version><![CDATA[3.0.3]]></version>
+      <description><![CDATA[A polyfill for getallheaders.]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/ralouphie/getallheaders@3.0.3]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[ramsey]]></group>
+      <name><![CDATA[collection]]></name>
+      <version><![CDATA[1.1.3]]></version>
+      <description><![CDATA[A PHP 7.2+ library for representing and manipulating collections.]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/ramsey/collection@1.1.3]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[ramsey]]></group>
+      <name><![CDATA[uuid]]></name>
+      <version><![CDATA[4.1.1]]></version>
+      <description><![CDATA[A PHP library for generating and working with universally unique identifiers (UUIDs).]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/ramsey/uuid@4.1.1]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[swiftmailer]]></group>
+      <name><![CDATA[swiftmailer]]></name>
+      <version><![CDATA[6.2.7]]></version>
+      <description><![CDATA[Swiftmailer, free feature-rich PHP mailer]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/swiftmailer/swiftmailer@6.2.7]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[console]]></name>
+      <version><![CDATA[5.2.7]]></version>
+      <description><![CDATA[Eases the creation of beautiful and testable command line interfaces]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/console@5.2.7]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[css-selector]]></name>
+      <version><![CDATA[5.2.7]]></version>
+      <description><![CDATA[Converts CSS selectors to XPath expressions]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/css-selector@5.2.7]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[deprecation-contracts]]></name>
+      <version><![CDATA[2.4.0]]></version>
+      <description><![CDATA[A generic function and convention to trigger deprecation notices]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/deprecation-contracts@2.4.0]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[error-handler]]></name>
+      <version><![CDATA[5.2.7]]></version>
+      <description><![CDATA[Provides tools to manage errors and ease debugging PHP code]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/error-handler@5.2.7]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[event-dispatcher]]></name>
+      <version><![CDATA[5.2.4]]></version>
+      <description><![CDATA[Provides tools that allow your application components to communicate with each other by dispatching events and listening to them]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/event-dispatcher@5.2.4]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[event-dispatcher-contracts]]></name>
+      <version><![CDATA[2.4.0]]></version>
+      <description><![CDATA[Generic abstractions related to dispatching event]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/event-dispatcher-contracts@2.4.0]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[finder]]></name>
+      <version><![CDATA[5.2.4]]></version>
+      <description><![CDATA[Finds files and directories via an intuitive fluent interface]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/finder@5.2.4]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[http-client-contracts]]></name>
+      <version><![CDATA[2.4.0]]></version>
+      <description><![CDATA[Generic abstractions related to HTTP clients]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/http-client-contracts@2.4.0]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[http-foundation]]></name>
+      <version><![CDATA[5.2.7]]></version>
+      <description><![CDATA[Defines an object-oriented layer for the HTTP specification]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/http-foundation@5.2.7]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[http-kernel]]></name>
+      <version><![CDATA[5.2.7]]></version>
+      <description><![CDATA[Provides a structured process for converting a Request into a Response]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/http-kernel@5.2.7]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[mime]]></name>
+      <version><![CDATA[5.2.7]]></version>
+      <description><![CDATA[Allows manipulating MIME messages]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/mime@5.2.7]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[polyfill-ctype]]></name>
+      <version><![CDATA[1.22.1]]></version>
+      <description><![CDATA[Symfony polyfill for ctype functions]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/polyfill-ctype@1.22.1]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[polyfill-iconv]]></name>
+      <version><![CDATA[1.22.1]]></version>
+      <description><![CDATA[Symfony polyfill for the Iconv extension]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/polyfill-iconv@1.22.1]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[polyfill-intl-grapheme]]></name>
+      <version><![CDATA[1.22.1]]></version>
+      <description><![CDATA[Symfony polyfill for intl's grapheme_* functions]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/polyfill-intl-grapheme@1.22.1]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[polyfill-intl-idn]]></name>
+      <version><![CDATA[1.22.1]]></version>
+      <description><![CDATA[Symfony polyfill for intl's idn_to_ascii and idn_to_utf8 functions]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/polyfill-intl-idn@1.22.1]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[polyfill-intl-normalizer]]></name>
+      <version><![CDATA[1.22.1]]></version>
+      <description><![CDATA[Symfony polyfill for intl's Normalizer class and related functions]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/polyfill-intl-normalizer@1.22.1]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[polyfill-mbstring]]></name>
+      <version><![CDATA[1.22.1]]></version>
+      <description><![CDATA[Symfony polyfill for the Mbstring extension]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/polyfill-mbstring@1.22.1]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[polyfill-php72]]></name>
+      <version><![CDATA[1.22.1]]></version>
+      <description><![CDATA[Symfony polyfill backporting some PHP 7.2+ features to lower PHP versions]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/polyfill-php72@1.22.1]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[polyfill-php73]]></name>
+      <version><![CDATA[1.22.1]]></version>
+      <description><![CDATA[Symfony polyfill backporting some PHP 7.3+ features to lower PHP versions]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/polyfill-php73@1.22.1]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[polyfill-php80]]></name>
+      <version><![CDATA[1.22.1]]></version>
+      <description><![CDATA[Symfony polyfill backporting some PHP 8.0+ features to lower PHP versions]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/polyfill-php80@1.22.1]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[process]]></name>
+      <version><![CDATA[5.2.7]]></version>
+      <description><![CDATA[Executes commands in sub-processes]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/process@5.2.7]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[routing]]></name>
+      <version><![CDATA[5.2.7]]></version>
+      <description><![CDATA[Maps an HTTP request to a set of configuration variables]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/routing@5.2.7]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[service-contracts]]></name>
+      <version><![CDATA[2.4.0]]></version>
+      <description><![CDATA[Generic abstractions related to writing services]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/service-contracts@2.4.0]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[string]]></name>
+      <version><![CDATA[5.2.6]]></version>
+      <description><![CDATA[Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/string@5.2.6]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[translation]]></name>
+      <version><![CDATA[5.2.7]]></version>
+      <description><![CDATA[Provides tools to internationalize your application]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/translation@5.2.7]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[translation-contracts]]></name>
+      <version><![CDATA[2.4.0]]></version>
+      <description><![CDATA[Generic abstractions related to translation]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/translation-contracts@2.4.0]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[symfony]]></group>
+      <name><![CDATA[var-dumper]]></name>
+      <version><![CDATA[5.2.7]]></version>
+      <description><![CDATA[Provides mechanisms for walking through any arbitrary PHP variable]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/symfony/var-dumper@5.2.7]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[tijsverkoyen]]></group>
+      <name><![CDATA[css-to-inline-styles]]></name>
+      <version><![CDATA[2.2.3]]></version>
+      <description><![CDATA[CssToInlineStyles is a class that enables you to convert HTML-pages/files into HTML-pages/files with inline styles. This is very useful when you're sending emails.]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[BSD-3-Clause]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/tijsverkoyen/css-to-inline-styles@2.2.3]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[vlucas]]></group>
+      <name><![CDATA[phpdotenv]]></name>
+      <version><![CDATA[4.2.0]]></version>
+      <description><![CDATA[Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[BSD-3-Clause]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/vlucas/phpdotenv@4.2.0]]></purl>
+    </component>
+    <component type="library">
+      <group><![CDATA[voku]]></group>
+      <name><![CDATA[portable-ascii]]></name>
+      <version><![CDATA[1.5.6]]></version>
+      <description><![CDATA[Portable ASCII library - performance optimized (ascii) string functions for php.]]></description>
+      <licenses>
+        <license>
+          <id><![CDATA[MIT]]></id>
+        </license>
+      </licenses>
+      <purl><![CDATA[pkg:composer/voku/portable-ascii@1.5.6]]></purl>
+    </component>
+  </components>
+</bom>
